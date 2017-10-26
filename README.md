@@ -12,5 +12,6 @@ It should be in the format like shown below:
 
   - [JonathanFilbert](https://github.com/jonathanfilbert)
   - [netsudo](https://github.com/netsudo)
+  - [anaghrao-99](http://github.com/anaghrao-99)
 
 
