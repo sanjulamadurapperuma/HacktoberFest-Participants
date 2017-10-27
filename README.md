@@ -18,4 +18,6 @@ It should be in the format like shown below:
   - [topataco](https://github.com/topataco)
   - [mehak16163](https://github.com/mehak16163)
   - [simrandeol1](https://github.com/simrandeol1)
+  - [anaghrao-99](http://github.com/anaghrao-99)
+  - [xanmolx](https://github.com/xanmolx)
   - [asdfasdf123123asdf](https://github.com/asdfasdf123123asdf)
