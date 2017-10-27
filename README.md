@@ -21,3 +21,4 @@ It should be in the format like shown below:
   - [anaghrao-99](http://github.com/anaghrao-99)
   - [xanmolx](https://github.com/xanmolx)
   - [asdfasdf123123asdf](https://github.com/asdfasdf123123asdf)
+  - [aligg](https://github.com/aligg)
