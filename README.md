@@ -25,3 +25,4 @@ It should be in the format like shown below:
   - [ashepeter](https://github.com/ashepeter)
   - [flintrube](https://github.com/flintrube)
   - [jonesbilly](https://github.com/jonesbilly)
+  - [samwillkins](https://github.com/samwillkins)
