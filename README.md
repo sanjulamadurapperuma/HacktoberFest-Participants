@@ -24,4 +24,4 @@ It should be in the format like shown below:
   - [aligg](https://github.com/aligg)
   - [ashepeter](https://github.com/ashepeter)
   - [flintrube](https://github.com/flintrube)
-
+  - [jonesbilly](https://github.com/jonesbilly)
