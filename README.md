@@ -26,4 +26,6 @@ It should be in the format like shown below:
   - [flintrube](https://github.com/flintrube)
   - [jonesbilly](https://github.com/jonesbilly)
   - [samwillkins](https://github.com/samwillkins)
+  - [nortonedgar](https://github.com/nortonedgar)
+  - [miwojc](https://github.com/miwojc)
   - [gupta-meghna64](https://github.com/gupta-meghna64)
