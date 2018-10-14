@@ -35,3 +35,5 @@ It should be in the format like shown below:
   - [dancing-goose](https://github.com/dancing-goose)
   - [renaissa4](https://github.com/renaissa4)
   - [cjwilliams] (https://github.com/CJWilliams20)
+  - [swillis](https://github.com/S-Willis)
+
