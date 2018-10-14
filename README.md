@@ -34,4 +34,6 @@ It should be in the format like shown below:
   - [gupta-meghna64](https://github.com/gupta-meghna64)
   - [dancing-goose](https://github.com/dancing-goose)
   - [renaissa4](https://github.com/renaissa4)
+  - [cjwilliams] (https://github.com/CJWilliams20)
   - [swillis](https://github.com/S-Willis)
+
