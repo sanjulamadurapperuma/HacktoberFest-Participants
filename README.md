@@ -3,7 +3,7 @@ This is a Census for all the people who are participating in HacktoberFest. An e
 
 All what you have to do is to fork this project, enter your username + (link to your GitHub profile) under Census and make a pull request. That's it! You've got an entry. Simple as that.
 
-P.S. Try to contribute to real open source projects as well! It will be very valuable for you than an easy entry. This is only meant for new Githubers helping to settle them into this wonderful dev environment. Peace!
+P.S. Try to contribute to real open source projects as well! It will be very valuable for you than an easy entry. This is only meant for new Githubers helping to settle them into this wonderful dev environment. Peace! ☮️
 
 
 ### Contributing
