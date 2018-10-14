@@ -37,3 +37,4 @@ It should be in the format like shown below:
   - [cjwilliams] (https://github.com/CJWilliams20)
   - [swillis](https://github.com/S-Willis)
   - [lornaarmstrong] (https://github.com/lornaarmstrong)
+  - [tblanshard](https://github.com/tblanshard)
