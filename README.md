@@ -38,3 +38,4 @@ It should be in the format like shown below:
   - [swillis](https://github.com/S-Willis)
   - [lornaarmstrong](https://github.com/lornaarmstrong)
   - [tblanshard](https://github.com/tblanshard)
+  - [akatsuki06](https://github.com/akatsuki06)
