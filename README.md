@@ -41,3 +41,5 @@ It should be in the format like shown below:
   - [akatsuki06](https://github.com/akatsuki06)
   - [Jaishree18](https://github.com/Jaishree18)
   - [pahlevikun](https://github.com/pahlevikun)
+  - [Harsh52](https://github.com/harsh52)
+
