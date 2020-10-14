@@ -44,7 +44,7 @@ It should be in the format like shown below:
   - [pahlevikun](https://github.com/pahlevikun)
   - [Harsh52](https://github.com/harsh52)
   - [ChristySchott](https://github.com/christyschott)
-  - [ChristopherHauschild] (https://github.com/ChristopherHauschild)
+  - [ChristopherHauschild](https://github.com/ChristopherHauschild)
   - [Hemanth987](https://github.com/Hemanth987)
   - [chowks](https://github.com/chowks)
   - [Aelof3](https://github.com/Aelof3)
