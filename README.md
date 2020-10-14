@@ -49,3 +49,4 @@ It should be in the format like shown below:
   - [chowks](https://github.com/chowks)
   - [Aelof3](https://github.com/Aelof3)
   - [andreaabenato](https://github.com/andreabenato)
+  - [elijahcruz12](https://github.com/elijahcruz12)
