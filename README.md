@@ -52,3 +52,4 @@ It should be in the format like shown below:
   - [elijahcruz12](https://github.com/elijahcruz12)
   - [themayankjha](https://github.com/themayankjha)
   - [FireFoxHD](https://github.com/FireFoxHD)
+  - [Tani21](https://github.com/Tani21)
