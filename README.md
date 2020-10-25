@@ -58,3 +58,4 @@ It should be in the format like shown below:
   - [Tani21](https://github.com/Tani21)
   - [lakkshh](https://github.com/lakkshh)
   - [shaikhamaan](https://github.com/shaikhamaan)
+  - [kannupriyasingh](https://github.com/Kannupriyasingh)
