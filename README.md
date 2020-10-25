@@ -57,3 +57,4 @@ It should be in the format like shown below:
   - [FireFoxHD](https://github.com/FireFoxHD)
   - [Tani21](https://github.com/Tani21)
   - [lakkshh](https://github.com/lakkshh)
+  - [shaikhamaan](https://github.com/shaikhamaan)
