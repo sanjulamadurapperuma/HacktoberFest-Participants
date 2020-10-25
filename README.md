@@ -6,6 +6,8 @@ All what you have to do is to fork this project, enter your username + (link to 
 
 P.S. Try to contribute to real open source projects as well! It will be very valuable for you than an easy entry. This is only meant for new Githubers helping to settle them into this wonderful dev environment. Peace! ☮️
 
+![Hacktoberfest Logo](https://pbs.twimg.com/media/Ekdkh_HWAAEeQOX.jpg)
+
 ### Contributing
 
 It should be in the format like shown below:
@@ -45,6 +47,7 @@ It should be in the format like shown below:
   - [Harsh52](https://github.com/harsh52)
   - [ChristySchott](https://github.com/christyschott)
   - [ChristopherHauschild](https://github.com/ChristopherHauschild)
+  - [Michael Johnston](https://github.com/michaeljamie)
   - [Hemanth987](https://github.com/Hemanth987)
   - [chowks](https://github.com/chowks)
   - [Aelof3](https://github.com/Aelof3)
@@ -54,4 +57,6 @@ It should be in the format like shown below:
   - [FireFoxHD](https://github.com/FireFoxHD)
   - [Tani21](https://github.com/Tani21)
   - [lakkshh](https://github.com/lakkshh)
+  - [shaikhamaan](https://github.com/shaikhamaan)
+  - [kannupriyasingh](https://github.com/Kannupriyasingh)
   - [arunsnd](https://github.com/arunsnd)
