@@ -65,3 +65,4 @@ It should be in the format like shown below:
   - [Laugh Face](https://github.com/laughface809)
   - [evergreen2001](https://github.com/evergreen2001)
   - [basheer-97](https://github.com/basheer-97)
+  - [Rafaela Micaela](https://github.com/RafaelaMicaela)
