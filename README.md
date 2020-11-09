@@ -22,6 +22,7 @@ It should be in the format like shown below:
   - [rame54](https://github.com/rame54)
   - [pankhuri22](https://github.com/pankhuri22)
   - [topataco](https://github.com/topataco)
+  - [Fonta22](https://github.com/Fonta22)
   - [mehak16163](https://github.com/mehak16163)
   - [simrandeol1](https://github.com/simrandeol1)
   - [anaghrao-99](http://github.com/anaghrao-99)
