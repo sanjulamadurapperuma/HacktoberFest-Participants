@@ -62,3 +62,4 @@ It should be in the format like shown below:
   - [arunsinghsnd](https://github.com/arunsinghsnd)
   - [kannupriyasingh](https://github.com/Kannupriyasingh)
   - [arunsnd](https://github.com/arunsnd)
+  - [Laugh Face](https://github.com/laughface809)
