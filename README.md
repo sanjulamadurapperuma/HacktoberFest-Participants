@@ -14,6 +14,9 @@ It should be in the format like shown below:
 
   - [sanjulamadurapperuma](https://github.com/sanjulamadurapperuma)
 
+#### :rotating_light: Note to all 2021 Hacktoberfest participants :rotating_light:
+Add your names under the heading **2021 Census** (even existing contributors can join :smiley:).
+
 ### 2020 Census
 
   - [JonathanFilbert](https://github.com/jonathanfilbert)
