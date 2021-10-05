@@ -72,3 +72,5 @@ Add your names under the heading **2021 Census** (even existing contributors can
   - [CAG07](https://github.com/CAG07)
 
 ### 2021 Census
+
+  - [Shinz](https://github.com/shinz-404)
