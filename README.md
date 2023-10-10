@@ -6,8 +6,6 @@ All what you have to do is to fork this project, enter your username + (link to 
 
 P.S. Try to contribute to real open source projects as well! It will be very valuable for you than an easy entry. This is only meant for new Githubers helping to settle them into this wonderful dev environment. Peace! ☮️
 
-![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
-
 ### Contributing
 
 It should be in the format like shown below:
